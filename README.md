@@ -9,7 +9,8 @@ React 18 업그레이드 과정에서 더 이상 권장되지 않는 `defaultPro
 
 React 17에서는 `Component.defaultProps = { ... }`를 사용해 기본값을 설정하는 것이 일반적이었지만,  
 React 18부터는 [기본값을 구조분해에서 직접 설정](https://react.dev/learn/passing-props-to-a-component#specifying-a-default-value-for-a-prop)하는 방식이 권장됩니다.
-[velog: react18 마이그레이션 jshift로 처리하기](https://velog.io/@jrjr519/react18-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-jshift%EB%A1%9C-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
+
+> [velog: react18 마이그레이션 jshift로 처리하기](https://velog.io/@jrjr519/react18-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-jshift%EB%A1%9C-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
 ---
 
 ## 변환 예시
